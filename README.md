@@ -2,9 +2,11 @@
 
 A collection of 100+ Python exercises designed to build strong programming skills through hands-on practice. Exercises are organized by difficulty: beginner, intermediate, and advanced (coming soon).
 
+
 ## 🎯 Purpose
 
 To improve problem-solving and coding skills by tackling progressively challenging Python exercises, covering core concepts and practical use cases.
+
 
 ## 🧠 Hard Skills Developed
 
@@ -16,11 +18,14 @@ To improve problem-solving and coding skills by tackling progressively challengi
 - File operations  
 - Logical thinking and problem decomposition  
 - Applying math and algorithms with Python
+  
 
 ## 📂 Repository Structure
 
 - `Beginner/` – Basic exercises focusing on syntax and simple logic  
 - `Intermediate/` – Functions, data manipulation, and exceptions  
 - `Advanced/` – More complex problems integrating multiple concepts 
+
+
 
 Thank you for stopping by! 🚀 Hope to see you again soon.
