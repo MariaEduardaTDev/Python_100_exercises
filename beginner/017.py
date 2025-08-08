@@ -1,4 +1,5 @@
 import math
+
 print('\nEsse programa irá calcular o Seno, Cosseno e Tangente de um ângulo qualquer.\n')
 
 ang = int(input('Digite o valor do ângulo em graus: '))
@@ -17,3 +18,4 @@ if cosseno < 1e-10:
 
 else:
     print('tangente = {:.2f}' .format(tangente))
+
